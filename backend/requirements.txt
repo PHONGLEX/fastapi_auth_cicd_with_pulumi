@@ -1,0 +1,10 @@
+fastapi
+fastapi-mail
+psycopg2_binary
+fastapi_jwt_auth
+uvicorn
+tortoise-orm[asyncpg]
+python-dotenv
+passlib[bcrypt]
+redis
+celery
